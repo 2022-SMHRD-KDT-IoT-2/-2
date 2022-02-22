@@ -5,7 +5,9 @@ public class Test01 {
 		
 		System.out.println("1번째 커밋");
 		System.out.println("2번째 커밋");
-		
+		System.out.println("2번째 커밋");
+		System.out.println("2번째 커밋");
+		System.out.println("2번째 커밋");
 	}
 
 }
