@@ -10,6 +10,7 @@ System.out.println("나는야 보람상조 팀원");
 
 System.out.println("나는야 갓대성 꿇어라");
 System.out.println("개무섭고.. 갓대성;");
+System.out.println("나는야 갓대성 아무도 깝치지 마라 ");
 
 	}
 
